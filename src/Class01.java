@@ -8,6 +8,8 @@ public class Class01 {
         System.out.println("versiyoon3");
         //v6
         System.out.println("versiyon 6");
+        //v7
+        System.out.println("versiyon 7");
 
 
 
